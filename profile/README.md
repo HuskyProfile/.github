@@ -4,14 +4,15 @@ Part of Coursework: CSYE 6225 - Network Structures and Cloud Computing
 
 ## Description
 
-Developed and deployed a node.js scalable application in AWS Platform using CloudFormation, S3, Lambda functions, IAM, VPC, Route53, CodeDeploy, RDS, DynamoDB, SNS, SES, CloudWatch, & EKS.
+Husky Profile is a node.js scalable application developed and deployed in AWS Platform using CloudFormation and other resources like S3, Lambda functions, SNS, SES etc. <br/>
+This application allows northeastern community members to provide their basic profile details.
 
 ## Repositories
 
 1. webservice - for nodejs javascript backend code
 2. infrastructure - for cloudformation infrastructure as code
 3. serverless - for lambda function
-(for links please scroll down)
+<br/>(for links please scroll down)
 
 ## AWS Resources Used
 
@@ -31,7 +32,7 @@ Developed and deployed a node.js scalable application in AWS Platform using Clou
 * **KMS** for encryption keys
 * **Secrets Manager** for storing secrets
 * **ACM** for HTTPS certificate managing
-* **GitHub Actions** for streamlining CI/CD pipelines 
+* **GitHub Actions** for streamlining **CI/CD** pipelines 
 
 
 ## Technologies Used
@@ -40,6 +41,6 @@ AWS, Cloudformation (IaC), Node.js, JavaScript, Express.js, PostgreSQL, Linux co
 
 ## Me
 
-Vignesh Gunasekaran
-MS, Information Systems
+Vignesh Gunasekaran<br/>
+MS, Information Systems<br/>
 Northeastern University
